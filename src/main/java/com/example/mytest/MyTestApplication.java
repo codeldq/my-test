@@ -8,6 +8,7 @@ public class MyTestApplication {
 
     public static void main(String[] args) {
         System.out.println("hello world");
+        System.out.println("hello 7.10");
         SpringApplication.run(MyTestApplication.class, args);
     }
 
